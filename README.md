@@ -10,11 +10,10 @@ My personal goals made open source.
 
 # November 10, 2014
 
-### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
 - [x] Start to learn Sass
-- [ ] Read Sara Souiden's SVG animation post
+- [ ] Read Sara Souiden's SVG animation post (http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)
 - [ ] Write about what I'm learning
 - [ ] Read intro to API's (https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)
 
